@@ -1,0 +1,25 @@
+DFT 
+<Set the target libs and link libs> 
+
+read_verilog design1,v
+
+compile -scan 
+
+set_scan_configuration  -chain_count 1 
+
+create_test_protocol -infer_clock -infer_asyn 
+
+dft_drc -verbose 
+
+preview_dft -show all 
+
+insert_dft 
+
+
+change_names -rules verilog -hier 
+
+write -format verilog -hier -o tops5378.v 
+
+write_test_protocol -test_mode Internal_scan -o scan.spf 
+
+exit 

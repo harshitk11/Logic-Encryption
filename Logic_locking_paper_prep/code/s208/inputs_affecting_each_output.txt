@@ -1,0 +1,6 @@
+W	====>X	Clear	
+
+
+Z	====>C_8	X	Clear	C_4	C_3	C_1	C_0	C_7	C_6	C_2	C_5	
+
+

@@ -1,0 +1,974 @@
+test    1: 0010 x    0 faults detected
+test    2: 1111 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G8 /1
+	   G12 /1
+	   G1 /0
+test    3: 1100 1    4 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+test    4: 0101 1    4 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+test    5: 1010 1    4 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+test    6: 0010 1    4 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+test    7: 0100 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+	   G6 /1
+	   G11->G6 /1
+test    8: 0010 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+	   G6 /1
+	   G11->G6 /1
+test    9: 0110 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G8 /1
+	   G6 /1
+	   G11->G6 /1
+test   10: 0001 0   10 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   11: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   12: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   13: 0001 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   14: 1000 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   15: 1000 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   16: 1111 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   17: 0010 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   18: 0100 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+test   19: 0011 1   13 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   20: 0110 1   13 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   21: 1001 0   10 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   22: 0101 0   14 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G8->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G11->G10 /0
+	   G14 /0
+	   G11->G6 /0
+	   G8 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   23: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   24: 0010 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   25: 0001 0   10 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   26: 1101 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   27: 1011 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   28: 0011 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   29: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   30: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   31: 1001 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   32: 1100 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   33: 1111 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   34: 1011 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   35: 0111 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   36: 0010 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G16 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+test   37: 0100 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G16 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+test   38: 1000 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   39: 0001 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   40: 0001 1   13 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   41: 1001 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   42: 0001 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   43: 1110 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   44: 1000 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   45: 1001 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   46: 1001 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   47: 1000 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   48: 1011 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   49: 1101 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   50: 1011 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   51: 1100 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   52: 1010 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   53: 1110 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   54: 1100 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   55: 1001 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   56: 1111 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   57: 0111 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   58: 1110 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   59: 0011 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   60: 1011 0   10 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   61: 0110 0   15 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G8->G15 /0
+	   G8->G16 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G11->G10 /0
+	   G14 /0
+	   G11->G6 /0
+	   G8 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   62: 1010 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   63: 0000 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   64: 1010 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   65: 0100 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   66: 0111 1   12 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G1 /0
+test   67: 1001 0   10 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   68: 0010 0   14 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G8->G16 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G11->G10 /0
+	   G14 /0
+	   G11->G6 /0
+	   G8 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   69: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   70: 0100 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   71: 1011 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   72: 1001 1   13 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   73: 0101 1   13 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   74: 0010 1   15 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   75: 0101 1   15 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   76: 0010 1   15 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+	   G12 /1
+	   G7 /0
+	   G1 /0
+	   G13 /0
+test   77: 1011 0   10 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   78: 0011 0   11 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G11->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+test   79: 1000 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   80: 0001 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G16 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   81: 1001 0   11 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+	   G12->G13 /0
+test   82: 1010 1    7 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G16 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   83: 1011 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G16 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   84: 0000 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G16 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   85: 0001 0   11 faults detected
+	   G17 /1
+	   G12->G15 /0
+	   G3 /0
+	   G11 /0
+	   G10 /1
+	   G14->G10 /0
+	   G14 /0
+	   G12 /0
+	   G2 /0
+	   G13 /1
+	   G12->G13 /0
+test   86: 1110 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   87: 0000 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   88: 0110 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+test   89: 1111 1    9 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G15 /1
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   90: 0011 1   11 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G15 /1
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G12 /1
+	   G1 /0
+test   91: 1100 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   92: 1010 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   93: 1000 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   94: 1100 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   95: 1101 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   96: 0010 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   97: 0100 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	   G6 /1
+	   G11->G6 /1
+test   98: 1010 1    6 faults detected
+	   G17 /0
+	   G11 /1
+	   G9 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test   99: 1001 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+test  100: 0100 1    8 faults detected
+	   G17 /0
+	   G11 /1
+	   G5 /0
+	   G9 /0
+	   G10 /0
+	   G14 /1
+	   G8 /1
+	   G14->G8 /1
+	*******************************************************
+	*                                                     *
+	*            Welcome to HOPE (version 2.0)            *
+	*                                                     *
+	*               Dong S. Ha (ha@vt.edu)                *
+	*            Web: http://www.ee.vt.edu/ha             *
+	*  Virginia Polytechnic Institute & State University  *
+	*                                                     *
+	*******************************************************
+
+******   SUMMARY OF SIMULATION RESULTS   ******
+1. Circuit structure
+   Name of circuit                           : s27
+   Number of primary inputs                  : 4
+   Number of primary outputs                 : 1
+   Number of combinational gates             : 10
+   Number of flip-flops                      : 3
+   Level of the circuit                      : 6
+
+2. Simulator input parameters
+   Simulation mode                           : random
+   Initial random number generator seed      : 1508778739
+
+3. Simulation results
+   Number of test patterns applied           : 100
+   Fault coverage                            : 100.000 %
+   Number of collapsed faults                : 32
+   Number of detected faults                 : 32
+   Number of undetected faults               : 0
+
+4. Memory used                               : 24350 Kbytes
+
+5. CPU time
+   Initialization                            : 0.000 secs
+   Fault simulation                          : 0.000 secs
+   Total                                     : 0.000 secs
+
+* List of undetected faults:

@@ -1,0 +1,1283 @@
+test    1: 01001111011 x0    8 faults detected
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_5 /1
+	   X->II508_1 /1
+test    2: 11001000111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test    3: 11110001100 00   19 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   Y_7 /1
+	   II156 /1
+	   Y_3 /1
+	   II4 /1
+	   Y_2 /1
+	   II5 /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_7 /1
+	   P_2 /1
+	   II372 /0
+	   Y_3->II316 /1
+	   C_0 /1
+	   II371 /0
+	   II310 /0
+test    4: 01101110111 00   10 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_1 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test    5: 10100010111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test    6: 10111100010 01   12 faults detected
+	   W /1
+	   Clear /1
+	   II113 /0
+	   X /0
+	   II104 /1
+	   Y_1 /0
+	   II6 /0
+	   II494 /1
+	   II508_2 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test    7: 01101010011 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_1 /1
+	   P_6 /1
+	   X->II508_1 /1
+test    8: 01010111111 00   10 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test    9: 01111101101 00   10 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   10: 10101001000 00   15 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   Y_3 /1
+	   II4 /1
+	   Y_6 /1
+	   II157 /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_6 /1
+	   II372 /0
+	   Y_3->II316 /1
+	   C_0 /1
+	   Y_6->II374 /1
+test   11: 11001000011 01    6 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   12: 00111001011 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_6 /1
+	   X->II508_1 /1
+test   13: 10101101000 00   21 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   II192 /0
+	   Y_3 /1
+	   II4 /1
+	   Y_6 /1
+	   II157 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_6 /1
+	   P_5 /1
+	   II372 /0
+	   Y_3->II316 /1
+	   C_0 /1
+	   Y_6->II374 /1
+	   II369 /0
+test   14: 01101001010 00    7 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   X->II314 /1
+test   15: 00011101101 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_3 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   16: 00001101011 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   17: 10010011100 00   21 faults detected
+	   W /1
+	   Y_7 /1
+	   II156 /1
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   II40 /0
+	   X /1
+	   Y_2 /1
+	   II5 /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_7 /1
+	   P_2 /1
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   C_0 /1
+	   II371 /0
+	   II310 /0
+test   18: 01010010010 00    7 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_1 /1
+	   P_7 /1
+	   X->II314 /1
+test   19: 11000010011 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   20: 11001100111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   21: 11010011101 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   22: 01001101010 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_5 /1
+test   23: 10001110111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   24: 01110010100 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_7 /1
+	   P_2 /1
+test   25: 01000101010 00    5 faults detected
+	   W /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_5 /1
+test   26: 11011010111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   27: 11011011101 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   28: 00110001011 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   X->II508_1 /1
+test   29: 11001111110 00   32 faults detected
+	   W /1
+	   II192 /0
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   II40 /0
+	   X /1
+	   Y_2 /1
+	   II5 /1
+	   II104 /0
+	   Y_1 /1
+	   II6 /1
+	   Y_6 /1
+	   II157 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   Y_1->II314 /1
+	   C_0 /1
+	   Y_6->II374 /1
+	   II310 /0
+	   II369 /0
+test   30: 11001010110 00   22 faults detected
+	   W /1
+	   Clear /0
+	   Y_4 /1
+	   II3 /1
+	   Clear->II113 /0
+	   Y_2 /1
+	   II5 /1
+	   II104 /0
+	   Y_1 /1
+	   II6 /1
+	   Y_6 /1
+	   II157 /1
+	   Z /1
+	   P_4 /1
+	   P_1 /1
+	   P_6 /1
+	   P_2 /1
+	   Y_4->II317 /1
+	   Y_1->II314 /1
+	   C_0 /1
+	   Y_6->II374 /1
+	   II310 /0
+test   31: 01000001010 00    4 faults detected
+	   W /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+test   32: 10100111010 00   25 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   II104 /0
+	   Y_1 /1
+	   II6 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_5 /1
+	   II372 /0
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   Y_1->II314 /1
+	   C_0 /1
+	   II369 /0
+test   33: 01100110010 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_1 /1
+	   P_5 /1
+	   X->II314 /1
+test   34: 10001000001 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   35: 11011010010 01   12 faults detected
+	   W /1
+	   Clear /1
+	   II113 /0
+	   X /0
+	   II104 /1
+	   Y_1 /0
+	   II6 /0
+	   II494 /1
+	   II508_2 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   36: 00110101100 00    7 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_7 /1
+	   P_2 /1
+	   P_5 /1
+test   37: 01110010011 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_1 /1
+	   P_7 /1
+	   X->II508_1 /1
+test   38: 01001101000 00    5 faults detected
+	   W /1
+	   Z /1
+	   P_3 /1
+	   P_6 /1
+	   P_5 /1
+test   39: 01101001100 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_6 /1
+	   P_2 /1
+test   40: 10110000001 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   41: 11100010100 00    7 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_2 /1
+	   C_1 /1
+	   C_0 /1
+test   42: 01010101111 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   43: 01010101010 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_5 /1
+test   44: 10111111100 00   32 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   Y_7 /1
+	   II156 /1
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   Y_2 /1
+	   II5 /1
+	   Y_6 /1
+	   II157 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   II372 /0
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   C_0 /1
+	   II371 /0
+	   Y_6->II374 /1
+	   II310 /0
+	   II369 /0
+test   45: 00000010010 00    6 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_1 /1
+	   X->II314 /1
+test   46: 01000110000 00    4 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_5 /1
+test   47: 01110101000 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_7 /1
+	   P_5 /1
+test   48: 10010000001 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   49: 00110101010 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_5 /1
+	   X->II314 /1
+test   50: 10001111011 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   51: 10111100110 01   12 faults detected
+	   W /1
+	   Clear /1
+	   II113 /0
+	   X /0
+	   II104 /1
+	   Y_1 /0
+	   II6 /0
+	   II494 /1
+	   II508_2 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   52: 00011110000 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_7 /1
+	   P_6 /1
+	   P_5 /1
+test   53: 11000101100 00   18 faults detected
+	   W /1
+	   II192 /0
+	   Y_3 /1
+	   II4 /1
+	   Y_2 /1
+	   II5 /1
+	   II100->II109 /0
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_3 /1
+	   P_2 /1
+	   P_5 /1
+	   Y_3->II316 /1
+	   C_0 /1
+	   II310 /0
+	   II369 /0
+test   54: 01110101010 00    7 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_5 /1
+test   55: 11100011100 00   19 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   Y_2 /1
+	   II5 /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_2 /1
+	   II372 /0
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   C_0 /1
+	   II310 /0
+test   56: 10100010001 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   57: 10010000010 01   14 faults detected
+	   W /1
+	   Clear /1
+	   Clear /0
+	   II113 /0
+	   Clear->II113 /0
+	   X /0
+	   II104 /1
+	   Y_1 /0
+	   II6 /0
+	   II494 /1
+	   II508_2 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   58: 01000101111 00   11 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_2 /1
+	   II350->P_2 /0
+	   P_5 /1
+	   X->II508_1 /1
+	   II350 /0
+	   X->II350 /1
+test   59: 01001011010 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+test   60: 00111111101 00   11 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   61: 10101111010 00   32 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   II192 /0
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   II40 /0
+	   X /1
+	   II104 /0
+	   Y_1 /1
+	   II6 /1
+	   Y_6 /1
+	   II157 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_5 /1
+	   II372 /0
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   Y_1->II314 /1
+	   C_0 /1
+	   Y_6->II374 /1
+	   II369 /0
+test   62: 00101010101 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_6 /1
+	   P_2 /1
+	   X->II508_1 /1
+test   63: 01000111000 00    5 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_5 /1
+test   64: 00111010101 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   X->II508_1 /1
+test   65: 01100110100 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_2 /1
+	   P_5 /1
+test   66: 01111100110 00    8 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_1 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+test   67: 00010000111 00    7 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_1 /1
+	   P_7 /1
+	   P_2 /1
+	   X->II508_1 /1
+test   68: 00101101111 00   10 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   69: 00001111110 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+test   70: 01111001000 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_7 /1
+	   P_6 /1
+test   71: 01000011110 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_2 /1
+test   72: 00011100101 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   73: 10010010000 00   11 faults detected
+	   W /1
+	   Y_7 /1
+	   II156 /1
+	   Y_4 /1
+	   II3 /1
+	   Z /1
+	   P_4 /1
+	   P_7 /1
+	   Y_4->II317 /1
+	   C_0 /1
+	   II371 /0
+test   74: 00110110011 00   10 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_1 /1
+	   P_7 /1
+	   P_5 /1
+	   X->II314 /1
+	   X->II508_1 /1
+test   75: 10101100111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   76: 10010001010 01   12 faults detected
+	   W /1
+	   Clear /1
+	   II113 /0
+	   X /0
+	   II104 /1
+	   Y_1 /0
+	   II6 /0
+	   II494 /1
+	   II508_2 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   77: 01110011011 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   X->II508_1 /1
+test   78: 11000111111 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   79: 11001001011 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   80: 11011110100 00   26 faults detected
+	   W /1
+	   Y_7 /1
+	   II156 /1
+	   Clear /0
+	   Y_4 /1
+	   II3 /1
+	   Clear->II113 /0
+	   Y_2 /1
+	   II5 /1
+	   Y_6 /1
+	   II157 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_4 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   Y_4->II317 /1
+	   C_0 /1
+	   II371 /0
+	   Y_6->II374 /1
+	   II310 /0
+	   II369 /0
+test   81: 00101011011 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   X->II508_1 /1
+test   82: 00001011100 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_6 /1
+	   P_2 /1
+test   83: 11001111100 00   27 faults detected
+	   W /1
+	   II192 /0
+	   Y_4 /1
+	   II3 /1
+	   Y_3 /1
+	   II4 /1
+	   II40 /0
+	   X /1
+	   Y_2 /1
+	   II5 /1
+	   Y_6 /1
+	   II157 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_4 /1
+	   P_3 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+	   Y_4->II317 /1
+	   Y_3->II316 /1
+	   C_0 /1
+	   Y_6->II374 /1
+	   II310 /0
+	   II369 /0
+test   84: 00011110000 00    6 faults detected
+	   W /1
+	   Z /1
+	   P_4 /1
+	   P_7 /1
+	   P_6 /1
+	   P_5 /1
+test   85: 01111110001 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_7 /1
+	   P_6 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   86: 01011101110 00    8 faults detected
+	   W /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+	   P_5 /1
+test   87: 01111101001 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_7 /1
+	   P_6 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   88: 00010001011 00    7 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   X->II508_1 /1
+test   89: 00111010110 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_1 /1
+	   P_7 /1
+	   P_6 /1
+	   P_2 /1
+test   90: 00001001111 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_2 /1
+	   X->II508_1 /1
+test   91: 00100001001 00    6 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   X->II508_1 /1
+test   92: 01001010011 00    7 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_1 /1
+	   P_6 /1
+	   X->II508_1 /1
+test   93: 00100111001 00    8 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_4 /1
+	   P_3 /1
+	   P_5 /1
+	   X->II508_1 /1
+test   94: 11100110101 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test   95: 01110101110 00    8 faults detected
+	   W /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_7 /1
+	   P_2 /1
+	   P_5 /1
+test   96: 01010010011 00    7 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_4 /1
+	   P_1 /1
+	   P_7 /1
+	   X->II508_1 /1
+test   97: 10100101000 00   16 faults detected
+	   W /1
+	   Y_8 /1
+	   II155 /1
+	   Y_3 /1
+	   II4 /1
+	   II256 /0
+	   Y_5 /1
+	   II158 /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_5 /1
+	   II372 /0
+	   Y_3->II316 /1
+	   C_0 /1
+	   II369 /0
+test   98: 01101101010 00    9 faults detected
+	   W /1
+	   X /1
+	   Z /1
+	   P_8 /1
+	   P_3 /1
+	   P_1 /1
+	   P_6 /1
+	   P_5 /1
+	   X->II314 /1
+test   99: 11111111101 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+test  100: 10101001001 01    7 faults detected
+	   W /1
+	   X /0
+	   II494 /1
+	   II508_1 /0
+	   Z /0
+	   II495 /0
+	   II489 /0
+	*******************************************************
+	*                                                     *
+	*            Welcome to HOPE (version 2.0)            *
+	*                                                     *
+	*               Dong S. Ha (ha@vt.edu)                *
+	*            Web: http://www.ee.vt.edu/ha             *
+	*  Virginia Polytechnic Institute & State University  *
+	*                                                     *
+	*******************************************************
+
+******   SUMMARY OF SIMULATION RESULTS   ******
+1. Circuit structure
+   Name of circuit                           : s208
+   Number of primary inputs                  : 11
+   Number of primary outputs                 : 2
+   Number of combinational gates             : 96
+   Number of flip-flops                      : 8
+   Level of the circuit                      : 14
+
+2. Simulator input parameters
+   Simulation mode                           : random
+   Initial random number generator seed      : 1508949528
+
+3. Simulation results
+   Number of test patterns applied           : 100
+   Fault coverage                            : 28.372 %
+   Number of collapsed faults                : 215
+   Number of detected faults                 : 61
+   Number of undetected faults               : 154
+
+4. Memory used                               : 37203 Kbytes
+
+5. CPU time
+   Initialization                            : 0.000 secs
+   Fault simulation                          : 0.000 secs
+   Total                                     : 0.000 secs
+
+* List of undetected faults:
+   1. II193->W /0
+   2. II248->W /0
+   3. W /0
+   4. II193 /1
+   5. II193 /0
+   6. Y_8 /0
+   7. II155 /0
+   8. II279_2 /0
+   9. II279_1 /0
+  10. II248->II279_2 /1
+  11. II265->II279_2 /1 potentially detected
+  12. Y_8->II279_2 /1
+  13. II193->II279_1 /1
+  14. Y_7->II279_1 /1
+  15. II261->II279_1 /1
+  16. Y_7 /0
+  17. II156 /0
+  18. II283_2 /0
+  19. II194 /1
+  20. II283_1 /0
+  21. II261->II283_2 /1 potentially detected
+  22. II265->II283_1 /1 potentially detected
+  23. II244->II283_1 /1
+  24. Y_7->II283_1 /1
+  25. II265 /0
+  26. II41->II1_1 /0
+  27. II96->II1_1 /0
+  28. II265 /1 potentially detected
+  29. Clear->II265 /0 potentially detected
+  30. II41 /1
+  31. II41 /0
+  32. Y_4 /0
+  33. II3 /0
+  34. II127_2 /0
+  35. II127_1 /0
+  36. II96->II127_2 /1
+  37. II113->II127_2 /1 potentially detected
+  38. Y_4->II127_2 /1
+  39. II41->II127_1 /1
+  40. Y_3->II127_1 /1
+  41. II109->II127_1 /1
+  42. Y_3 /0
+  43. II4 /0
+  44. II131_2 /0
+  45. II42 /1
+  46. II131_1 /0
+  47. II109->II131_2 /1 potentially detected
+  48. II113->II131_1 /1 potentially detected
+  49. II92->II131_1 /1
+  50. Y_3->II131_1 /1
+  51. II113 /1 potentially detected
+  52. II92 /0
+  53. Y_2->II92 /1
+  54. Y_1->II92 /1
+  55. II92 /1
+  56. Y_2 /0
+  57. Y_2->II135_2 /0
+  58. II100->II135_2 /0 potentially detected
+  59. II43->II135_1 /0
+  60. II104->II135_1 /0 potentially detected
+  61. II5 /0
+  62. II135_2 /1
+  63. II135_1 /1
+  64. II43 /0
+  65. II43 /1
+  66. II113->II104 /1 potentially detected
+  67. II44 /1
+  68. II100 /0 potentially detected
+  69. Y_1->II100 /1
+  70. II113->II100 /1
+  71. II100 /1
+  72. II109 /0
+  73. II109 /1 potentially detected
+  74. II43->II109 /0
+  75. II96 /0
+  76. Y_3->II96 /1
+  77. II50 /1
+  78. II96 /1
+  79. II244 /0
+  80. Y_6->II244 /1
+  81. Y_5->II244 /1
+  82. II244 /1
+  83. Y_6 /0
+  84. Y_6->II287_2 /0
+  85. II252->II287_2 /0 potentially detected
+  86. II195->II287_1 /0
+  87. II256->II287_1 /0 potentially detected
+  88. II157 /0
+  89. II287_2 /1
+  90. II287_1 /1
+  91. II195 /0
+  92. II195 /1
+  93. II265->II256 /1 potentially detected
+  94. II196 /1
+  95. II256 /1
+  96. Y_5 /0
+  97. II158 /0
+  98. II252 /0 potentially detected
+  99. Y_5->II252 /1
+ 100. II265->II252 /1
+ 101. II252 /1
+ 102. II261 /0
+ 103. II261 /1 potentially detected
+ 104. II195->II261 /0
+ 105. II252->II261 /0
+ 106. II248 /0
+ 107. Y_7->II248 /1
+ 108. II202 /1
+ 109. II248 /1
+ 110. II497_1 /0
+ 111. Y_7->P_8 /0
+ 112. II378->P_8 /0
+ 113. II504_2 /0
+ 114. II318 /1
+ 115. II504_1 /0
+ 116. II512_2 /0
+ 117. II378->P_7 /0
+ 118. II512_1 /0
+ 119. II484 /1
+ 120. II500_2 /0
+ 121. II500_1 /0
+ 122. II409->P_5 /0
+ 123. C_8 /1
+ 124. II487 /0
+ 125. C_4 /1
+ 126. C_3 /1
+ 127. II347->II316 /1
+ 128. C_7 /1
+ 129. C_6 /1
+ 130. II406->II374 /1
+ 131. C_2 /1
+ 132. C_5 /1
+ 133. II409 /1
+ 134. II307_1 /1
+ 135. II368 /1
+ 136. II409 /0
+ 137. II341 /1
+ 138. II311 /1
+ 139. II341 /0
+ 140. II347->II341 /1
+ 141. II347 /0
+ 142. II347 /1
+ 143. Y_2->II347 /0
+ 144. II350->II347 /0
+ 145. II350 /1
+ 146. II309 /1
+ 147. II406 /0
+ 148. II406 /1
+ 149. II409->II406 /0
+ 150. Y_5->II406 /0
+ 151. II378 /1
+ 152. II370 /1
+ 153. II378 /0
+ 154. II406->II378 /1

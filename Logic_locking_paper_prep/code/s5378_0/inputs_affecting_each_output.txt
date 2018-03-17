@@ -1,0 +1,147 @@
+n3104gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3105gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3106gat	====>n3088gat	n3084gat	n3083gat	n3085gat	n3095gat	n3086gat	n3087gat	n3094gat	n3092gat	n3091gat	n3093gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3107gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3108gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3109gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3110gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3111gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3112gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3113gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3114gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3115gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3116gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3117gat	====>n3086gat	n3087gat	n3089gat	n3088gat	n3084gat	n3085gat	n3083gat	n3095gat	n3094gat	n3092gat	n3091gat	n3093gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3073gat	n3082gat	n3090gat	n3100gat	n3099gat	n3074gat	
+
+
+n3118gat	====>n3069gat	n3070gat	n3068gat	n3072gat	n3073gat	n3071gat	n3066gat	n3067gat	n3065gat	n3095gat	n3086gat	n3087gat	n3084gat	n3083gat	n3085gat	n3093gat	n3088gat	n3094gat	n3092gat	n3091gat	n3078gat	n3079gat	n3077gat	n3081gat	n3080gat	n3075gat	n3076gat	n3074gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3119gat	====>n3078gat	n3095gat	n3069gat	n3093gat	n3079gat	n3070gat	n3077gat	n3068gat	n3081gat	n3072gat	n3082gat	n3073gat	n3080gat	n3071gat	n3066gat	n3075gat	n3067gat	n3076gat	n3074gat	n3065gat	n3086gat	n3087gat	n3084gat	n3083gat	n3085gat	n3088gat	n3094gat	n3092gat	n3091gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3120gat	====>n3069gat	n3070gat	n3068gat	n3072gat	n3073gat	n3071gat	n3066gat	n3067gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3075gat	n3074gat	n3076gat	n3089gat	n3082gat	n3090gat	n3100gat	n3077gat	
+
+
+n3121gat	====>n3069gat	n3093gat	n3083gat	n3084gat	n3088gat	n3085gat	n3095gat	n3086gat	n3087gat	n3094gat	n3092gat	n3091gat	n3070gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3122gat	====>n3069gat	n3070gat	n3068gat	n3092gat	n3091gat	n3086gat	n3085gat	n3093gat	n3083gat	n3084gat	n3088gat	n3095gat	n3087gat	n3094gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3123gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3090gat	n3082gat	n3100gat	
+
+
+n3124gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3125gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3126gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3127gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3128gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3129gat	====>n3073gat	n3095gat	n3087gat	n3086gat	n3093gat	n3088gat	n3085gat	n3092gat	n3091gat	n3083gat	n3084gat	n3094gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3130gat	====>n3095gat	n3086gat	n3087gat	n3084gat	n3083gat	n3085gat	n3093gat	n3088gat	n3092gat	n3091gat	n3094gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3131gat	====>n3088gat	n3095gat	n3087gat	n3086gat	n3084gat	n3083gat	n3085gat	n3093gat	n3066gat	n3094gat	n3092gat	n3091gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3132gat	====>n3088gat	n3095gat	n3087gat	n3086gat	n3084gat	n3083gat	n3085gat	n3093gat	n3067gat	n3094gat	n3092gat	n3091gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	n3076gat	
+
+
+n3133gat	====>n3088gat	n3095gat	n3087gat	n3093gat	n3086gat	n3085gat	n3068gat	n3083gat	n3084gat	n3094gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3092gat	n3091gat	n3089gat	n3100gat	n3099gat	
+
+
+n3134gat	====>n3069gat	n3093gat	n3083gat	n3084gat	n3088gat	n3085gat	n3095gat	n3086gat	n3087gat	n3094gat	n3092gat	n3091gat	n3070gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3135gat	====>n3095gat	n3087gat	n3086gat	n3093gat	n3085gat	n3088gat	n3083gat	n3084gat	n3094gat	n3092gat	n3091gat	n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3099gat	
+
+
+n3136gat	====>n3088gat	n3095gat	n3087gat	n3093gat	n3086gat	n3085gat	n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3081gat	n3083gat	n3084gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3137gat	====>n3095gat	n3086gat	n3087gat	n3084gat	n3083gat	n3085gat	n3093gat	n3088gat	n3072gat	n3065gat	n3070gat	n3069gat	n3071gat	n3099gat	n3081gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3138gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3139gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	n3098gat	n3097gat	
+
+
+n3140gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3065gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	n3098gat	n3097gat	
+
+
+n3141gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	
+
+
+n3142gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	
+
+
+n3143gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3144gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3145gat	====>n3070gat	n3069gat	n3072gat	n3071gat	n3088gat	n3084gat	n3083gat	n3085gat	n3065gat	n3093gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3086gat	n3087gat	n3092gat	n3091gat	n3090gat	n3094gat	n3095gat	n3089gat	n3100gat	n3099gat	
+
+
+n3146gat	====>n3071gat	n3072gat	n3070gat	n3069gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3147gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3086gat	n3087gat	n3089gat	n3088gat	n3084gat	n3085gat	n3083gat	n3093gat	n3095gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3092gat	n3091gat	n3094gat	n3090gat	n3100gat	
+
+
+n3148gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3086gat	n3087gat	n3089gat	n3088gat	n3084gat	n3085gat	n3083gat	n3093gat	n3095gat	n3078gat	n3079gat	n3077gat	n3068gat	n3081gat	n3080gat	n3066gat	n3075gat	n3076gat	n3067gat	n3074gat	n3073gat	n3082gat	n3092gat	n3091gat	n3094gat	n3090gat	n3100gat	
+
+
+n3149gat	====>n3065gat	n3070gat	n3069gat	n3071gat	n3072gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3073gat	n3082gat	n3090gat	n3089gat	n3100gat	
+
+
+n3150gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3151gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
+n3152gat	====>n3070gat	n3069gat	n3071gat	n3072gat	n3065gat	n3099gat	n3095gat	n3081gat	n3093gat	n3083gat	n3084gat	n3086gat	n3085gat	n3087gat	n3088gat	n3092gat	n3091gat	n3094gat	n3080gat	n3079gat	n3078gat	n3066gat	n3075gat	n3068gat	n3077gat	n3074gat	n3067gat	n3076gat	n3089gat	n3073gat	n3082gat	n3090gat	n3100gat	
+
+
