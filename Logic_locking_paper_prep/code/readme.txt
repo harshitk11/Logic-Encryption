@@ -41,4 +41,9 @@ Procedure for getting the key gates for the paper:
 -> shorlisted_output: contains the list of shortlisted outputs (with maximum overlap). Selected from inNum_sort
 -> keyNodes_sort: contains the set of key nodes obtained after the first step (i.e. maximum overlapping cone)
 -> hope_key_node.txt : contains the list of nodes having maximum fault impact as given by hope simulation tool as well as having maximum overlap
+
+==================================================================================================
+-> Inside the bench folders in the bxx series of benches, there are two bench files. One contains the normal bench files and one contains the bxx_mod.bench file in which the flip flops have been removed. This is because the original bench files for the bxx series was not running on the HOPE simulation
+-> node_distance_from_primary_input.cpp finds out the distance of the key nodes on the file hope_key_node.txt from the primary inputs in the respective bench files.
+-> merge_nodeDistance_and_dependency_results.cpp merges the results of dependency in the file hope_key_node_final.txt and the file node_distance_from_primary_input.txt into the file merged_nodeDistance_and_dependency_results.txt
 		
