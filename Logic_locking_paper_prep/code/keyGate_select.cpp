@@ -8,8 +8,8 @@
        __typeof__ (b) _b = (b); \
      _a > _b ? _b : _a; })
 
-#define NO_OF_OUTPUT	72   		// Has to be changed for every file. Contains the number of selected outputs for the particular bench file.
-#define NO_KEY_NODE	128		// Number of shortlisted key nodes. Is usually 200.
+#define NO_OF_OUTPUT	49   		// Has to be changed for every file. Contains the number of selected outputs for the particular bench file.
+#define NO_KEY_NODE	200		// Number of shortlisted key nodes. Is usually 200.
 
 struct node{
 	char output_name [30];		// Stores the name of the output
@@ -139,9 +139,11 @@ void read_all()
         strcat(input_file, "/hope_key_node_final.txt");
         fk = fopen(input_file, "w");
 	
-	for(int i = 0; i< 128; i++)		// Selecting the top 128 key gates
+	//for(int i = 0; i< 128; i++)		// Selecting the top 128 key gates
+	for(int i = 0; i< NO_KEY_NODE; i++)
 	{	
-		fprintf(fk,"%s\n",key_array[i].node_name);
+		//fprintf(fk,"%s\n",key_array[i].node_name);
+		fprintf(fk,"%s\t%d\n",key_array[i].node_name,key_array[i].min_dep);
 	
 	}
 	fclose(fk);
@@ -200,7 +202,7 @@ void read_hope_keynode()					// Function for reading all the hope_key_node
         
         strcpy(input_file, circuit_name);
         
-        strcat(input_file, "/hope_key_node_final.txt");
+        strcat(input_file, "/hope_key_node.txt");
         //printf("%s\n", input_file);
         FILE    *fp;
         

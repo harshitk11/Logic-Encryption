@@ -13,7 +13,7 @@ Procedure for getting the key gates for the paper:
 
 <circuit_name>
 
----> run dependency1.cpp ----------> /hope_key_node.text
+---> run dependency1.cpp ----------> /hope_key_node.text		line 722
 			 ----------> NO_HOPE_KEYNODE = 200
 			  
 ---> run keyGate.cpp ----------> Line 203 /hope_key_node.text

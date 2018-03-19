@@ -20,7 +20,7 @@ Procedure for getting the key gates for the paper:
 		     ----------> NO_HOPE_KEYNODE = 200
 		     ----------> NO_OF_OUTPUT
 		     
----> Delete contents of <circuit_name>/dependency
+---> Delete contents of <circuit_name>/dependency (The same iteration is being ran twice because we needed to get the dependency number between the 128 selected gates)	
 
 ---> run dependency1.cpp ----------> /hope_key_node_final.text
 			 ----------> NO_HOPE_KEYNODE = 128

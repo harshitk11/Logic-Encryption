@@ -43,7 +43,7 @@ int     out=0;
 char    *arr = (char*) malloc(LARGE_NUMBER * sizeof(char));
 char	FILE_NM1[ 100 ] , FILE_NM2[ 100 ] , FILE_NM3[ 100 ] ;
 char    output_name[MAX_OUTPUT][100];             	// Stores the name of the OUTPUT nodes as defined in the benchmark file.
-int     output_node[MAX_OUTPUT];
+int     output_node[MAX_OUTPUT];					//Stores the occurence of the output in the node_array
 int	NO_OF_INPUT , NO_OF_OUTPUT ;                 	// Stores the total number of inputs and outputs as defined in the benchmark file.
 //char	DFF_list[MAX_DFF][100];
 int	dff_count = 0;
